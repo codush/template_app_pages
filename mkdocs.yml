@@ -1,0 +1,12 @@
+docs_dir: 
+site_dir: 
+site_name: My Docs 1
+site_url: https://example.com
+theme: material
+nav:
+    - 'Home Page': index.md
+    - 'About Page': about.md
+    - Nested: 
+        - 'A nested Home Page' : 'nested/nested_index.md'
+        - 'A nested About Page' : 'nested/nested_about.md'
+copyright: 'codush 2022'
