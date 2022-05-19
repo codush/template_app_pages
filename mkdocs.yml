@@ -1,7 +1,7 @@
 docs_dir: 
 site_dir: 
-site_name: My Docs Edited online 1
-site_url: https://example.com
+site_name: My Docs
+site_url: https://codush.github.io/template_app_pages/
 theme: material
 nav:
     - 'Home Page': home.md
