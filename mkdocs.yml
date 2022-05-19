@@ -4,9 +4,9 @@ site_name: My Docs Edited online 1
 site_url: https://example.com
 theme: material
 nav:
-    - 'Home Page': index.md
+    - 'Home Page': home.md
     - 'About Page': about.md
     - Nested: 
-        - 'A nested Home Page' : 'nested/nested_index.md'
+        - 'A nested Home Page' : 'nested/nested_home.md'
         - 'A nested About Page' : 'nested/nested_about.md'
 copyright: 'codush 2022'
