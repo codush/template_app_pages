@@ -1,6 +1,11 @@
 # 文件结构
 
+[![Publish docs via GitHub Pages](https://github.com/codush/template_app_pages/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/codush/template_app_pages/actions/workflows/github-actions-demo.yml)
+[![pages-build-deployment](https://github.com/codush/template_app_pages/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/codush/template_app_pages/actions/workflows/pages/pages-build-deployment) 
 
+ 
+
+ 
 ```
 TailWindCss文件
 ./docs/index.html
