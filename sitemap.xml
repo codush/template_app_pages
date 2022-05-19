@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://codush.github.io/template_app_pages/about/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://codush.github.io/template_app_pages/home/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://codush.github.io/template_app_pages/nested/nested_about/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://codush.github.io/template_app_pages/nested/nested_home/</loc>
+         <lastmod>2022-05-19</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
